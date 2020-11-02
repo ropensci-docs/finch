@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "aed229fc2156def76d8b644f6a3c9dceb55256bb",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-11-02 19:55:19",
+    "files": 2,
+    "merge": false,
+    "message": "replace CI badge in readme\n"
+  },
+  "remote": "https://github.com/ropensci/finch",
+  "pkg": "finch"
+}
